@@ -42,6 +42,12 @@
 
 </div>
 
+## 🌱Experience
+1. 창업 액셀러레이션 수료(2022.03~08)
+2. SW중심대학 공동해커톤 참여(2022.06.22~06.24)
+3. 제 9회 대한민국 융합SW 해커톤 참여(2022.09.16~09.18)
+4. 스마일게이트 윈터데브캠프 수료(2022.12~2023.02)
+
 <!--
 **GyyymShark/GyyymShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
