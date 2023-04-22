@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 <br>    
-
+<br>
 </div>
 
 ## 🌱Experience
@@ -47,7 +47,17 @@
 2. SW중심대학 공동해커톤 참여(2022.06.22~06.24)
 3. 제 9회 대한민국 융합SW 해커톤 참여(2022.09.16~09.18)
 4. 스마일게이트 윈터데브캠프 수료(2022.12~2023.02)
+<br>
 
+## ⚡Status
+<div alight="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyyymShark&layout=compact" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=GyyymShark" height="180">
+
+<a href="https://solved.ac/profile/sangwoo0795">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sangwoo0795" alt="Solved.ac Profile" height="180">
+</a>
+</div>
 <!--
 **GyyymShark/GyyymShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
